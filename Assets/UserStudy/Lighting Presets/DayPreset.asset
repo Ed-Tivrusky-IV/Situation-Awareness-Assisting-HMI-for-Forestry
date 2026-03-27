@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ed53dd7fcbe23b4fb59aee26aaa7ac0, type: 3}
+  m_Name: DayPreset
+  m_EditorClassIdentifier: 
+  skyboxMaterial: {fileID: 2100000, guid: 7416536dbe0334cfd888dd1beb75a9fb, type: 2}
+  lightColor: {r: 1, g: 1, b: 1, a: 1}
+  lightIntensity: 0.5
+  lightRotation: {x: 30, y: 190, z: 0}
+  volumeProfile: {fileID: 11400000, guid: 332c6731637a423459f7195eee5c3069, type: 2}
+  textMaterial: {fileID: 2100000, guid: 027fe50a1788f5045af459373aa41f8a, type: 2}
