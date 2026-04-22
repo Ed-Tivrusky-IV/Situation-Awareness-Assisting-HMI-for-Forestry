@@ -36,40 +36,39 @@ It is a Unity project simulating the scenario where the user controlling a heavy
 
 To start with, you need to enter a participant id as well as an order number(integer from 1-6) indicating an arrangement of 3 different conditions: 
 - Baseline: No assistance from 2D minimap or panoramic view
+  > baseline pic
 - Auto: You have access to the 2D minimap and pano view updating the environment info automatically
+  > auto pic
 - Manual: You have access to the 2D minimap and pano view updated by triggering the drone at any location
+  > man pic
+
+After clicking the start button from the start page, you will jump directly to the first task where you need to roam around the forest following the direction arrow on the minimap to find the target number. There will be 3 * 4 = 12 tasks in total.
 
 ### ✍️ Authors
 
-Mention who you are and link to your GitHub or organization's website.
+[My Github account](https://github.com/Ed-Tivrusky-IV)
+
+[My LinkedIn Profile](https://www.linkedin.com/in/jaime-li-yuancao/)
+
+[Iqbal](https://github.com/adbaga) contributed to the number panel logic and data collection related scripts.
 
 
 ## 🚀 Usage
 
-*Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
+You might need to add glTFast package from Unity package manager if the .glb model is not rendered properly.
 
-```py
->>> import mypackage
->>> mypackage.do_stuff()
-'Oh yeah!'
-```
+You might change the bindings of the input from Unity input manager.
+
+You also need to map the screens(4 screens in total) with the rendering cameras.
 
 
 ## ⬇️ Installation
 
-Simple, understandable installation instructions!
+Clone the project and open it with your Unity Hub.
 
-```bash
-pip install my-package
-```
-
-And be sure to specify any other minimum requirements like Python versions or operating systems.
-
-*You may be inclined to add development instructions here, don't.*
+Unity Version 6.1 is recommended.
 
 
 ## 💭 Feedback and Contributing
 
-Add a link to the Discussions tab in your repo and invite users to open issues for bugs/feature requests.
-
-This is also a great place to invite others to contribute in any ways that make sense for your project. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them.
+[Contact me](mailto:yuancaojl@outlook.com) if you have any questions/potential collaboration😊
