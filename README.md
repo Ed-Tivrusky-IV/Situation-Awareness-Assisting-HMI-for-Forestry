@@ -17,11 +17,11 @@
 
 This project is a part of a research conducted at [TAUCHI](https://research.tuni.fi/tauchi/), Tampere University, whose objective is to evaluate *how visual environmental information and different levels of drone autonomy affect navigation and identification performance*.
 
-> General impression pic
+<img style="width: 50%; height: auto" alt="IMG_0666" src="https://github.com/user-attachments/assets/31b58424-c4e0-4aba-a873-d6a835e68291" />
 
 It is a Unity project simulating the scenario where the user controlling a heavy machine in the forest. There will be a couple of different tasks and the user need to identify a nest in a specific tree to which a number is attached in each task.
 
-> Nest and num pic
+<img style="width: 50%; height: auto" alt="IMG_8900" src="https://github.com/user-attachments/assets/8b8a0435-0188-4023-95bb-5f71690c2005" />
 
 ### Controls
 
