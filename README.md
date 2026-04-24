@@ -70,7 +70,7 @@ You also need to map the screens(4 screens in total) with the rendering cameras.
 
 Clone the project and open it with your Unity Hub.
 
-Unity Version 6.1 is recommended.
+Unity Version 6000.0.58f1 is recommended.
 
 
 ## 💭 Feedback and Contributing
