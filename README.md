@@ -37,11 +37,14 @@ It is a Unity project simulating the scenario where the user controlling a heavy
 
 To start with, you need to enter a participant id as well as an order number(integer from 1-6) indicating an arrangement of 3 different conditions: 
 - Baseline: No assistance from 2D minimap or panoramic view
-  > baseline pic
+  <img width="536" height="298" alt="baselineArrow" src="https://github.com/user-attachments/assets/5146211f-343a-4ad8-a05d-1d0991fa25c9" />
+
 - Auto: You have access to the 2D minimap and pano view updating the environment info automatically
-  > auto pic
+  <img width="536" height="298" alt="Screenshot 2026-03-13 150318" src="https://github.com/user-attachments/assets/2062a6d5-7439-42aa-a5b7-40289ccba6e5" />
+
 - Manual: You have access to the 2D minimap and pano view updated by triggering the drone at any location
-  > man pic
+  <img width="536" height="298" alt="manual_arrow_visible" src="https://github.com/user-attachments/assets/51f4da41-353b-4545-bf51-233770c69634" />
+
 
 After clicking the start button from the start page, you will jump directly to the first task where you need to roam around the forest following the direction arrow on the minimap to find the target number. There will be 3 * 4 = 12 tasks in total.
 
